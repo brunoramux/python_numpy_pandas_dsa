@@ -8,6 +8,8 @@ pandas = "*"
 numpy = "*"
 ipykernel = "*"
 scipy = "*"
+matplotlib = "*"
+yfinance = "*"
 
 [dev-packages]
 
